@@ -128,7 +128,7 @@
   "aggregations": {
     "sports": {
       "count": 5,
-      "inventoryValue": 94841.54
+      "inventoryValue": 97676.1
     },
     "home": {
       "count": 2,
