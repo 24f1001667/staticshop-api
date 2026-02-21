@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": "prod-4ed5b2de-001",
     "name": "Standard Item 1",
     "category": "sports",
@@ -118,3 +119,4 @@
     "stock": 68,
     "rating": 4.6
   }
+]
